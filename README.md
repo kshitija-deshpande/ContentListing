@@ -61,3 +61,8 @@ IDE used - Android Studio (Giraffe)
 Android Studio Version: (Giraffe) 2022.3.1 Patch 3
 JRE - 17
 AGP (Android Gradle Plugin): 8.1.0
+
+### Attached Screenshot:
+![Alt text](/Screenshots/Screenshot_20231114_234409_ContentListing.jpg?raw=true "App Image 1")
+![Alt text](/Screenshots/Screenshot_20231114_234438_ContentListing.jpg?raw=true "App Image 2")
+![Alt text](/Screenshots/Screenshot_20231114_234608_ContentListing.jpg?raw=true "App Image 3")
