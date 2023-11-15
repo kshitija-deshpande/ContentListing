@@ -54,3 +54,10 @@ Added screenshots of the app in the screenshots folder.
 The project uses JUnit4 for Instrumentation testing. Instrumentation tests have been added for
 MainActivity & ContentListViewModel. Unit tests have been added for ImageUtils which provides
 the image resId given the image name from the content response.
+
+## [Coding](#coding)
+The code is written in Kotlin.
+IDE used - Android Studio (Giraffe)
+Android Studio Version: (Giraffe) 2022.3.1 Patch 3
+JRE - 17
+AGP (Android Gradle Plugin): 8.1.0
