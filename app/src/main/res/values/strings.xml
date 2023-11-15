@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContentListing</string>
+    <string name="title">Romantic Comedy</string>
+    <string name="search">Search</string>
+    <string name="back_button_click_text">Press back again to exit</string>
+    <string name="no_item_found">No movie(s) with search title found</string>
+    <string name="search_text_length_error">Type at least 3 chars</string>
+    <string name="back">Back</string>
+    <string name="close">Close</string>
+</resources>

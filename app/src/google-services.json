@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736231287237",
+    "project_id": "contentlistingdiagnal",
+    "storage_bucket": "contentlistingdiagnal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736231287237:android:27368d18f372ac802683ac",
+        "android_client_info": {
+          "package_name": "com.diagnal.contentlisting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUVaNwDJv0nlxwEZisgA7Oa-wxaXGsN4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
