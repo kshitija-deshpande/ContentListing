@@ -14,7 +14,7 @@ view. The project uses View Model to fetch the images from the json response whi
 in the assets folder. The project uses drawable folder to store the images and use them based
 on the poster name given in the response for each content.
 
-## GridView (Recycler View):
+### GridView (Recycler View):
 Grid Layout Manager is passed to recycler views layout manager to show the content in a grid,
 used configuration change method of Android activity (made changes in AndroidManifest.xml) to
 receive onConfigurationChange. In Portrait mode, a span count is kept as 3 and for landscape mode
